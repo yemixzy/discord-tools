@@ -1,3 +1,4 @@
+// code to login to discord without email and password
 let token = ('your-token-here');
 
 function login(token) {
